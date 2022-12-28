@@ -1,0 +1,3 @@
+hi this is strings file in java
+.....
+
